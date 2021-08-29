@@ -7,6 +7,7 @@ Welcome to the CredInject repo -- This project is based on [HoneyCred](https://g
 2. Username -u
 3. Domain -d
 4. Password -p
+5. Agent -a
 
 If you have the knowledge to build it, please feel free to submit a pull request :D
 
