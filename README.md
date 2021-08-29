@@ -5,8 +5,6 @@ Welcome to the CredInject repo -- This project is based on [HoneyCred](https://g
 
 Major props to Stephen Hosom for coming up with a working POC!
 
----
-
 ### Defaults
 Currently, it injects the following credentials into memory:
 
