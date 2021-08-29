@@ -1,7 +1,9 @@
 # CredInject
 Hello Dear Reader!
 
-Welcome to the CredInject repo -- This project is based on [HoneyCred](https://github.com/hosom/honeycred/tree/master), this is a port from GoLang to C++. 
+Welcome to the CredInject repo -- This project is based on [HoneyCred](https://github.com/hosom/honeycred/tree/master) and uses the same method to inject credentials into LSASS. This is primarily a port from GoLang to C++. Hopefully we can add some more features one day :D
+
+Major props to Stephen Hosom for coming up with a working POC!
 
 ---
 
